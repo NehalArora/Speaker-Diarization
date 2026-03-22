@@ -9,7 +9,6 @@ from scipy.stats import mode
 import collections
 import webrtcvad
 
-
 # =========================================================
 # VAD FUNCTION (SOFT FILTER)
 # =========================================================
